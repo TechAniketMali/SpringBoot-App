@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: anike
+Build-Jdk: 17.0.8.1
+Implementation-Title: bootcustomization
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: org.example
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
